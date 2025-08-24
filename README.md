@@ -57,7 +57,7 @@ The main goal is to **conduct a comprehensive vulnerability assessment** on a sy
 ## **Live Demo**
 
 Access the project live on GitHub Pages:  
-[**IR.Team Live Site**](https://yourusername.github.io/my-website/)
+[**IR.Team Live Site**](https://ir-team-depi.github.io/IR.WebSite/)
 
 ---
 
@@ -72,4 +72,4 @@ Access the project live on GitHub Pages:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/my-website.git
+git clone https://github.com/IR-Team-DEPI/IR.WebSite.git
