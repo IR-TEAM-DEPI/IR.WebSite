@@ -67,12 +67,7 @@ The main goal is to **conduct a comprehensive vulnerability assessment** on a sy
 
 ---
 
-## **Live Demo**
 
-Access the project live on GitHub Pages:  
-[**IR.Team Live Site**](https://ir-team-depi.github.io/IR.WebSite/)
-
----
 
 ## **Project Images**
 
