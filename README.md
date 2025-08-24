@@ -1,8 +1,16 @@
-# 🛡️ IR.Team - Vulnerability Assessment and Remediation Plan
+<!-- ================= HEADER / BANNER ================= -->
+<div align="center" style="width:100%; padding: 40px; border-radius: 15px; background: linear-gradient(90deg,#0f2027,#203a43,#2c5364); color:white;">
 
-![IR.Team Banner](https://i.postimg.cc/4y0BQw6n/cropped-circle-image.png)
+  <img src="https://i.postimg.cc/4y0BQw6n/cropped-circle-image.png" alt="IR.Team Logo" width="160" style="border-radius:50%; box-shadow:0px 0px 15px rgba(0,255,255,0.6);"/>
 
----
+  <h1 style="font-size:42px; margin-bottom:10px;">🚀 Digital Egypt Pioneers Initiative - DEPI</h1>
+  <h3 style="font-size:22px; color:#00e6e6;">Infrastructure and Security | Incident Response Analysis | 2025</h3>
+  <p><B>🔹 Project developed by <b>IR.TEAM</b></B></p>
+  <p><B>🔹 Project Name : </B></p>
+
+  <h2 style="margin-top:20px;"> Vulnerability Assessment and Remediation Plan </h2>
+</div>
+
 
 ## **Project Overview**
 
@@ -63,7 +71,12 @@ Access the project live on GitHub Pages:
 
 ## **Project Images**
 
-![Project Screenshot](https://i.postimg.cc/05CK0NxW/1447-03-01-19-06-52-c01e9c1f.jpg)
+<p align="center">
+  <img src="https://i.postimg.cc/05CK0NxW/1447-03-01-19-06-52-c01e9c1f.jpg" alt="Project Details" width="750"/>
+</p>
+
+<p align="center"><b>Digital Egypt Pioneers Initiative - DEPI (Round 3)</b></p>
+
 
 ---
 
