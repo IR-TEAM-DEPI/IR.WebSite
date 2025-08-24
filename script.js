@@ -1,6 +1,6 @@
-document.addEventListener('DOMContentLoaded', (event) => {
+document.addEventListener('DOMContentLoaded', () => {
     const banner = document.getElementById('team-banner');
-    
+
     function showBanner() {
         banner.style.display = 'block';
         banner.style.animation = 'none';
@@ -9,5 +9,5 @@ document.addEventListener('DOMContentLoaded', (event) => {
     }
 
     showBanner();
-    setInterval(showBanner, 10000); 
+    setInterval(showBanner, 10000);
 });
